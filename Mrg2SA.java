@@ -8,6 +8,8 @@ public class Mrg2SA {
         for(int val : ans) {
             System.out.print(val+" ");
         }
+
+        System.out.println();
         
     }
 
