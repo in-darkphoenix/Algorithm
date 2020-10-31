@@ -6,6 +6,8 @@ public class InsertionSort {
         for(int val : arr) {
             System.out.print(val+" ");
         }
+
+        System.out.println();
         
     }
 
